@@ -1,12 +1,12 @@
 # Hello, I'm Effiong
 <a href="https://linkedin.com/in/okon-effiong-a90712190"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+## Brief Introduction
 
 Cybersecurity enthusiast, I am passionate about protecting digital assets. As a natural problem solver, I am dedicated to continuous learning and contributing to the cybersecurity community
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Provide Objective
 
 Being a victim of cyber attack has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
